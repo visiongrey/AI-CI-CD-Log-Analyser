@@ -1,4 +1,4 @@
-# Groq CI/CD Log Analyser
+# AI CI/CD Log Analyser
 
 An AI-powered CI/CD pipeline log analyser that uses [Groq's LLM API](https://console.groq.com/docs/overview) to automatically parse, analyse, and summarise build/deployment logs (e.g. Jenkins), and generate a structured markdown report with root cause analysis and fix recommendations.
 
